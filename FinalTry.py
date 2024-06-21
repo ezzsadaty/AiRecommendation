@@ -8,7 +8,7 @@ import numpy as np
 
 places_df = pd.read_csv('places_data.csv')
 restaurants_df = pd.read_csv('restaurants_data.csv')
-hotels_df = pd.read_csv('hotels_data.csv')
+hotels_df = pd.read_csv('Hotels_data.csv')
 
 # Label Encoding for categorical data
 le_place_type = LabelEncoder()
