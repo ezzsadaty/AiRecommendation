@@ -1,0 +1,39 @@
+ID,Place,Food,Region,Rating,Popularity,Average_Cost,Opening_Hours,Price_Range,Ambiance
+1,Horany fish,Egyptian,Giza,4.8,70,200,10 AM - 12 AM,Medium,Casual
+2,Koshary El Tahrir,Egyptian,Cairo,4.5,85,100,10 AM - 12 AM,Low,Casual
+3,Felfela Restaurant,Egyptian,Cairo,4.4,82,150,10 AM - 12 AM,Medium,Casual
+4,Sequoia,European,Cairo,4.6,90,200,10 AM - 2 AM,High,Fine Dining
+5,TGI Fridays,Fast Food,Cairo,4.3,78,250,11 AM - 1 AM,Medium,Casual
+6,Le Pacha 1901,European,Cairo,4.5,87,300,10 AM - 12 AM,High,Fine Dining
+7,Hard Rock Cafe,Fast Food,Cairo,4.4,84,250,10 AM - 12 AM,Medium,Casual
+8,Abou El Sid,Egyptian,Cairo,4.6,86,150,10 AM - 12 AM,Medium,Casual
+9,Zooba,Egyptian,Cairo,4.5,85,100,10 AM - 12 AM,Low,Casual
+10,Steigenberger Hotel,European,Alexandria,4.7,88,350,9 AM - 11 PM,High,Fine Dining
+11,Fish Market,Seafood,Alexandria,4.6,86,300,10 AM - 12 AM,High,Casual
+12,Sunset Restaurant,Egyptian,Luxor,4.5,85,150,10 AM - 12 AM,Medium,Casual
+13,Sofra Restaurant,Egyptian,Luxor,4.6,87,200,10 AM - 12 AM,Medium,Casual
+14,Panorama Restaurant,Seafood,Aswan,4.7,89,250,10 AM - 12 AM,High,Fine Dining
+15,Makani Restaurant,Fast Food,Aswan,4.5,86,100,10 AM - 12 AM,Medium,Casual
+16,Kebdet El Prince,Egyptian,Cairo,4.3,79,150,10 AM - 12 AM,Low,Casual
+17,Abu Shakra,Egyptian,Cairo,4.4,82,200,10 AM - 12 AM,Medium,Casual
+18,Pizza Hut,Fast Food,Cairo,4.2,76,150,10 AM - 12 AM,Low,Casual
+19,Gad,Egyptian,Cairo,4.1,75,100,10 AM - 12 AM,Low,Casual
+20,Alexandria Fish Market,Seafood,Alexandria,4.7,88,350,9 AM - 12 AM,High,Fine Dining
+21,El Malky,Dessert,Cairo,4.3,78,100,10 AM - 12 AM,Low,Casual
+22,Wimpy,Fast Food,Cairo,4.1,75,150,10 AM - 12 AM,Low,Casual
+23,Abo El Sid,Egyptian,Cairo,4.5,86,200,10 AM - 12 AM,Medium,Casual
+24,Eish & Malh,Italian,Cairo,4.4,85,250,10 AM - 12 AM,Medium,Casual
+25,Kazouza,Egyptian,Cairo,4.2,79,150,10 AM - 12 AM,Medium,Casual
+26,Fuddruckers,American,Cairo,4.4,83,200,11 AM - 1 AM,High,Casual
+27,Costa Coffee,Cafe,Cairo,4.3,76,100,10 AM - 12 AM,Medium,Casual
+28,Starbucks,Cafe,Cairo,4.4,77,150,10 AM - 12 AM,Medium,Casual
+29,Mcdonalds,Fast Food,Cairo,4.1,75,100,10 AM - 12 AM,Low,Casual
+30,KFC,Fast Food,Cairo,4.2,76,100,10 AM - 12 AM,Low,Casual
+31,Burger King,Fast Food,Cairo,4.3,78,100,10 AM - 12 AM,Medium,Casual
+32,El Dokan,Egyptian,Cairo,4.4,84,120,10 AM - 12 AM,Low,Casual
+33,El Araby,Egyptian,Cairo,4.5,85,130,10 AM - 12 AM,Low,Casual
+34,El Tahrir,Egyptian,Cairo,4.6,83,140,10 AM - 12 AM,Low,Casual
+35,Koshary Abou Tarek,Egyptian,Cairo,4.7,85,150,10 AM - 12 AM,Low,Casual
+36,Kazouza Cairo Festival City,Egyptian,Cairo,4.8,79,160,10 AM - 12 AM,Medium,Casual
+37,Abou Shakra Downtown,Egyptian,Cairo,4.4,82,170,10 AM - 12 AM,Medium,Casual
+38,Kababgy luxor,Egyptian,Luxor,4.8,88,250,10 AM - 12 AM,High,Casual

@@ -1,0 +1,81 @@
+ID,Place,Type,Region,Rating,Popularity,Opening_Hours,Budget,Activity_Level,Indoor_Outdoor
+1,Cairo Tower,Tourism,Cairo,4.5,85,9 AM - 10 PM,Medium,Relaxing,Outdoor
+2,City Stars,Entertainment,Cairo,4.3,78,10 AM - 11 PM,High,Active,Indoor
+3,Al-Azhar Park,Natural,Cairo,4.6,90,8 AM - 8 PM,Low,Relaxing,Outdoor
+4,Pyramids of Giza,Tourism,Giza,4.7,95,8 AM - 5 PM,High,Active,Outdoor
+5,Cairo Opera House,Entertainment,Cairo,4.4,80,9 AM - 10 PM,Medium,Active,Indoor
+6,Khan El Khalili,Tourism,Cairo,4.6,88,8 AM - 12 AM,Medium,Active,Outdoor
+7,The Egyptian Museum,Tourism,Cairo,4.7,92,9 AM - 7 PM,Medium,Relaxing,Indoor
+8,Mall of Arabia,Entertainment,Cairo,4.3,77,10 AM - 10 PM,High,Active,Indoor
+9,Giza Zoo,Natural,Giza,4.2,75,9 AM - 5 PM,Low,Relaxing,Outdoor
+10,Blue Nile Boat,Entertainment,Cairo,4.4,83,8 AM - 11 PM,Medium,Relaxing,Outdoor
+11,Andrea El Mariouteya,Entertainment,Giza,4.5,84,10 AM - 11 PM,High,Active,Outdoor
+12,Nile Cruise,Entertainment,Cairo,4.3,79,8 AM - 9 PM,Medium,Relaxing,Outdoor
+13,Bibliotheca Alexandrina,Tourism,Alexandria,4.6,91,9 AM - 8 PM,High,Relaxing,Indoor
+14,Montaza Palace,Tourism,Alexandria,4.5,88,8 AM - 10 PM,High,Relaxing,Outdoor
+15,Qaitbay Citadel,Tourism,Alexandria,4.4,87,9 AM - 6 PM,High,Relaxing,Outdoor
+16,Luxor Temple,Tourism,Luxor,4.7,94,6 AM - 6 PM,High,Relaxing,Outdoor
+17,Karnak Temple,Tourism,Luxor,4.6,89,6 AM - 6 PM,High,Relaxing,Outdoor
+18,Valley of the Kings,Tourism,Luxor,4.8,96,6 AM - 6 PM,High,Active,Outdoor
+19,Philae Temple,Tourism,Aswan,4.6,90,6 AM - 5 PM,Medium,Relaxing,Outdoor
+20,Nubian Museum,Tourism,Aswan,4.7,91,9 AM - 5 PM,Medium,Relaxing,Indoor
+21,Unfinished Obelisk,Tourism,Aswan,4.5,85,8 AM - 5 PM,Medium,Relaxing,Outdoor
+22,Giza Pyramids,Tourism,Giza,4.9,96,8 AM - 5 PM,High,Active,Outdoor
+23,Muhammad Ali Mosque,Tourism,Cairo,4.7,89,9 AM - 5 PM,Medium,Active,Indoor
+24,Coptic Museum,Tourism,Cairo,4.6,87,8 AM - 9 PM,Medium,Relaxing,Indoor
+25,Al-Azhar Mosque,Tourism,Cairo,4.8,91,8 AM - 5 PM,Medium,Relaxing,Indoor
+26,Baron Empain Palace,Tourism,Cairo,4.7,88,9 AM - 5 PM,Medium,Relaxing,Indoor
+27,Manial Palace,Tourism,Cairo,4.5,85,9 AM - 5 PM,Medium,Relaxing,Indoor
+28,Alexandria National Museum,Tourism,Alexandria,4.6,89,8 AM - 5 PM,High,Relaxing,Indoor
+29,Catacombs of Kom el Shoqafa,Tourism,Alexandria,4.7,88,9 AM - 5 PM,High,Relaxing,Indoor
+30,Alexandria Library,Tourism,Alexandria,4.8,90,8 AM - 5 PM,High,Relaxing,Indoor
+31,Salah El-Din Citadel,Tourism,Cairo,4.8,92,8 AM - 5 PM,Medium,Active,Outdoor
+32,Abdeen Palace,Tourism,Cairo,4.7,90,9 AM - 4 PM,Medium,Relaxing,Indoor
+33,Hanging Church,Tourism,Cairo,4.6,88,9 AM - 4 PM,Low,Relaxing,Indoor
+34,St. Catherine's Monastery,Tourism,Sinai,4.9,94,8 AM - 5 PM,Medium,Active,Outdoor
+35,Ras Mohamed National Park,Natural,Sinai,4.8,93,7 AM - 6 PM,Medium,Active,Outdoor
+36,Siwa Oasis,Natural,Western Desert,4.7,87,24 hours,Low,Relaxing,Outdoor
+37,White Desert,Natural,Western Desert,4.8,89,24 hours,Low,Relaxing,Outdoor
+38,Mount Sinai,Natural,Sinai,4.9,95,24 hours,Medium,Active,Outdoor
+39,Dahab Blue Hole,Natural,Sinai,4.7,88,24 hours,Medium,Active,Outdoor
+40,Temple of Kom Ombo,Tourism,Aswan,4.7,89,9 AM - 5 PM,High,Active,Outdoor
+41,Temple of Edfu,Tourism,Aswan,4.7,90,9 AM - 5 PM,High,Active,Outdoor
+42,Temple of Hatshepsut,Tourism,Luxor,4.9,93,6 AM - 5 PM,High,Active,Outdoor
+43,Abydos Temple,Tourism,Luxor,4.6,86,8 AM - 5 PM,High,Relaxing,Outdoor
+44,Dendera Temple,Tourism,Luxor,4.6,85,8 AM - 5 PM,High,Relaxing,Outdoor
+45,Medinet Habu,Tourism,Luxor,4.8,89,6 AM - 5 PM,Medium,Relaxing,Outdoor
+46,Memphis and Saqqara,Tourism,Giza,4.7,90,8 AM - 5 PM,High,Active,Outdoor
+47,Temple of Medinet Habu,Tourism,Luxor,4.8,88,6 AM - 5 PM,High,Relaxing,Outdoor
+48,Colossi of Memnon,Tourism,Luxor,4.6,86,6 AM - 5 PM,High,Active,Outdoor
+49,Temple of Esna,Tourism,Luxor,4.7,87,6 AM - 5 PM,High,Relaxing,Outdoor
+50,Temple of Khnum,Tourism,Luxor,4.6,85,6 AM - 5 PM,High,Relaxing,Outdoor
+51,Taba Heights,Natural,Sinai,4.7,88,24 hours,Medium,Relaxing,Outdoor
+52,Fayoum Oasis,Natural,Western Desert,4.6,87,24 hours,Low,Relaxing,Outdoor
+53,El Gouna,Entertainment,Red Sea,4.8,89,24 hours,High,Active,Outdoor
+54,Hurghada Marina,Entertainment,Red Sea,4.7,90,24 hours,High,Active,Outdoor
+55,Makadi Bay,Entertainment,Red Sea,4.6,87,24 hours,High,Active,Outdoor
+56,Marsa Alam,Natural,Red Sea,4.7,88,24 hours,Medium,Relaxing,Outdoor
+57,Port Ghalib,Entertainment,Red Sea,4.7,86,24 hours,High,Active,Outdoor
+58,Wadi El Rayan,Natural,Western Desert,4.6,85,7 AM - 5 PM,Low,Relaxing,Outdoor
+59,Wadi Hitan,Natural,Western Desert,4.8,89,7 AM - 5 PM,Low,Relaxing,Outdoor
+60,Siwa Salt Lakes,Natural,Western Desert,4.9,90,24 hours,Low,Relaxing,Outdoor
+61,Fjord Bay,Natural,Sinai,4.8,89,24 hours,Medium,Active,Outdoor
+62,Ain Sokhna,Natural,Red Sea,4.6,87,24 hours,Medium,Active,Outdoor
+63,Soma Bay,Entertainment,Red Sea,4.7,88,24 hours,High,Active,Outdoor
+64,El Quseir,Tourism,Red Sea,4.5,86,24 hours,Medium,Active,Outdoor
+65,Nuweiba,Natural,Sinai,4.6,87,24 hours,Medium,Relaxing,Outdoor
+66,Dahshur Pyramids,Tourism,Giza,4.7,88,9 AM - 5 PM,Medium,Active,Outdoor
+67,Beni Hasan,Tourism,Minya,4.6,86,8 AM - 4 PM,Low,Relaxing,Outdoor
+68,Minya,Tourism,Minya,4.5,85,8 AM - 4 PM,Low,Relaxing,Outdoor
+69,Amarna,Tourism,Minya,4.7,88,8 AM - 4 PM,Low,Relaxing,Outdoor
+70,Deir el-Medina,Tourism,Luxor,4.8,89,6 AM - 5 PM,Medium,Relaxing,Outdoor
+71,Meidum Pyramid,Tourism,Giza,4.6,87,8 AM - 4 PM,Medium,Active,Outdoor
+72,Temple of Hibis,Tourism,Western Desert,4.7,88,8 AM - 4 PM,Low,Active,Outdoor
+73,Temple of Hibis,Tourism,Western Desert,4.7,88,8 AM - 4 PM,Low,Active,Outdoor
+74,Temple of Luxor,Tourism,Luxor,4.8,89,6 AM - 5 PM,Medium,Active,Outdoor
+75,Temple of Horus,Tourism,Luxor,4.7,88,6 AM - 5 PM,Medium,Active,Outdoor
+76,Temple of Hathor,Tourism,Luxor,4.7,88,6 AM - 5 PM,Medium,Active,Outdoor
+77,Temple of Seti I,Tourism,Luxor,4.8,89,6 AM - 5 PM,Medium,Active,Outdoor
+78,Tomb of Ramses VI,Tourism,Luxor,4.7,88,6 AM - 5 PM,Medium,Active,Outdoor
+79,Temple of Rameses III,Tourism,Luxor,4.6,87,6 AM - 5 PM,Medium,Active,Outdoor
+80,Tomb of Nefertari,Tourism,Luxor,4.7,88,6 AM - 5 PM,Medium,Active,Outdoor
